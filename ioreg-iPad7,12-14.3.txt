@@ -91,8 +91,7 @@
     | |   | +-o AppleS8000DWI class: IORegistryEntry:IOService:AppleS8000DWI
     | |   +-o pwm@A118000 class: IORegistryEntry:IOService:AppleARMIODevice
     | |   | +-o AppleS5L8920XPWM class: IORegistryEntry:IOService:AppleARMPWM:AppleS5L8920XPWM
-    | |   +-o aes@
-    8000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   +-o aes@8000 class: IORegistryEntry:IOService:AppleARMIODevice
     | |   | +-o AppleS8000AESAccelerator class: IORegistryEntry:IOService:IOCryptoAccelerator:IOAESAccelerator:AppleS8000AESAccelerator
     | |   +-o aop@10800000 class: IORegistryEntry:IOService:AppleARMIODevice
     | |   | +-o AppleA7IOPV2 class: IORegistryEntry:IOService:IOSlaveCPU:AppleA7IOP:AppleA7IOPV2
