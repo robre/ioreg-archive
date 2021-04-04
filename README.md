@@ -8,14 +8,15 @@ Before running the command, please make sure your device is in a default usage s
 ### Command to run
 To create such an output file, please run the following command on the device:
 ```
-ioreg -i -w 0 | grep '+-o' | sed 's/, id.*//g' | sed 's/ <class /class: /g' | tee ioreg.txt
+ioreg -i -w 0 | grep '+-o' | sed 's/, id.*//g' | sed 's/ <class /class: /g' | tee ioreg-DEVICETYPE-OSVER.txt
 ```
-the output will be saved as `ioreg.txt`. Please rename the file as per our Naming Convention, and add it to this repository!
+the output will be saved as `ioreg-DEVICETYPE-OSVER.txt`. Please rename the file as per our Naming Convention (substituting the DEVICETYPE and OSVER placeholders), and add it to this repository!
 
 ### Naming Convention
-Mobile devices: use https://gist.github.com/adamawolf/3048717 to determine the device code. 
-Desktop devices: find the model identifier as explained in https://support.apple.com/en-us/HT201581
+- Mobile devices: use https://gist.github.com/adamawolf/3048717 to determine the device code. 
+- Desktop devices: find the model identifier as explained in https://support.apple.com/en-us/HT201581
+
 then the name will be constructed as follows:
-ioreg-devicetype-iosversion.txt
-for an iPhone 11 on ios 14.4.2 the name would therfore be `ioreg-iPhone12,1-14.4.2.txt`
+`ioreg-devicetype-iosversion.txt`
+for an iPhone 11 on ios 14.4.2 the name would therefore be `ioreg-iPhone12,1-14.4.2.txt`
 
