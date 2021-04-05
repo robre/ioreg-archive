@@ -8,6 +8,12 @@ Before running the command, please make sure your device is in a default usage s
 ### Command to run
 To create such an output file, please run the following command on the device:
 ```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/robre/ioreg-archive/master/archiver.sh)"
+```
+The script will automatically generate the correct filename.
+Alternatively you can do it manually:
+
+```
 ioreg -i -w 0 | grep '+-o' | sed 's/, id.*//g' | sed 's/ <class /class: /g' | tee ioreg-DEVICETYPE-OSVER.txt
 ```
 the output will be saved as `ioreg-DEVICETYPE-OSVER.txt`. Please rename the file as per our Naming Convention (substituting the DEVICETYPE and OSVER placeholders), and add it to this repository!
