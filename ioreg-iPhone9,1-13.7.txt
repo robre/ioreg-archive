@@ -1,0 +1,1190 @@
++-o Root class: IORegistryEntry
+  +-o D101AP class: IORegistryEntry:IOService:IOPlatformExpertDevice
+    +-o AppleARMPE class: IORegistryEntry:IOService:IOPlatformExpert:IODTPlatformExpert:AppleARMPE
+    | +-o IOPMrootDomain class: IORegistryEntry:IOService:IOPMrootDomain
+    | | +-o IORootParent class: IORegistryEntry:IOService:IORootParent
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | | +-o RootDomainUserClient class: IORegistryEntry:IOService:IOUserClient:RootDomainUserClient
+    | +-o options class: IORegistryEntry:IOService:IODTNVRAM
+    | +-o cpu0@0 class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleARMCPU class: IORegistryEntry:IOService:IOCPU:AppleARMCPU
+    | |   +-o IOCPUInterruptController class: IORegistryEntry:IOService:IOInterruptController:IOCPUInterruptController
+    | +-o cpu1@1 class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleARMCPU class: IORegistryEntry:IOService:IOCPU:AppleARMCPU
+    | +-o cpus class: IORegistryEntry:IOService:IOPlatformDevice
+    | +-o pram@7ED78000 class: IORegistryEntry:IOService:IOPlatformDevice
+    | +-o vram@7DE78000 class: IORegistryEntry:IOService:IOPlatformDevice
+    | +-o arm-io@2F40000 class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleT8010IO class: IORegistryEntry:IOService:AppleARMIO:AppleT801xIO:AppleT8010IO
+    | |   +-o uart2@A0C8000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSerial class: IORegistryEntry:IOService:AppleOnboardSerialBusInterface:AppleMMIOSerial:AppleSamsungSerial
+    | |   |   +-o gps class: IORegistryEntry:IOService:IOSerialStreamSync:IORS232SerialStreamSync:AppleOnboardSerialSync:AppleSimpleUARTSync
+    | |   |     +-o AppleOnboardSerialBSDClient class: IORegistryEntry:IOService:AppleOnboardSerialBSDClient
+    | |   |     +-o IOSerialBSDClient class: IORegistryEntry:IOService:IOSerialBSDClient
+    | |   |     +-o AppleEmbeddedGPSControl class: IORegistryEntry:IOService:AppleEmbeddedGPSControl
+    | |   |       +-o AppleEmbeddedGPSControlUserClient class: IORegistryEntry:IOService:IOUserClient:AppleEmbeddedGPSControlUserClient
+    | |   +-o aic@E100000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleInterruptController class: IORegistryEntry:IOService:IOInterruptController:AppleInterruptController
+    | |   +-o aic-timebase@E108000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   +-o pmgr@E000000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT8010PMGR class: IORegistryEntry:IOService:ApplePMGR:AppleT8010PMGR
+    | |   |   +-o soc-tuner class: IORegistryEntry:IOService:ApplePMGRNub
+    | |   |   | +-o AppleT8010SOCTuner class: IORegistryEntry:IOService:AppleSOCTuner:AppleT8010SOCTuner
+    | |   |   +-o clpc@2010000 class: IORegistryEntry:IOService:ApplePMGRNub
+    | |   |     +-o AppleT8010CLPC class: IORegistryEntry:IOService:AppleCLPC:AppleT8010CLPC
+    | |   +-o nco@E044000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XNCO class: IORegistryEntry:IOService:AppleS5L8960XNCO
+    | |   +-o wdt@102B0000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XWatchDogTimer class: IORegistryEntry:IOService:IOWatchdog:IOWatchdogEmbedded:AppleS5L8960XWatchDogTimer
+    | |   |   +-o IOWatchdogUserClient class: IORegistryEntry:IOService:IOUserClient:IOWatchdogUserClient
+    | |   +-o gpio@F100000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XGPIOIC class: IORegistryEntry:IOService:IOInterruptController:AppleS5L8960XGPIOIC
+    | |   +-o mcc@0 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT8010MemCacheController class: IORegistryEntry:IOService:AppleT8010MemCacheController
+    | |   +-o error-handler@0 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT8010PlatformErrorHandler class: IORegistryEntry:IOService:AppleT8010PlatformErrorHandler
+    | |   +-o dwi@E200000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS8000DWI class: IORegistryEntry:IOService:AppleS8000DWI
+    | |   +-o pwm@A118000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8920XPWM class: IORegistryEntry:IOService:AppleARMPWM:AppleS5L8920XPWM
+    | |   +-o aes@A108000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS8000AESAccelerator class: IORegistryEntry:IOService:IOCryptoAccelerator:IOAESAccelerator:AppleS8000AESAccelerator
+    | |   +-o aop@10800000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleA7IOPV2 class: IORegistryEntry:IOService:IOSlaveCPU:AppleA7IOP:AppleA7IOPV2
+    | |   |   +-o iop-aop-nub class: IORegistryEntry:IOService:AppleA7IOPNub
+    | |   |     +-o RTBuddy class: IORegistryEntry:IOService:IOSlaveProcessor:RTBuddy
+    | |   |     | +-o RTBuddyService class: IORegistryEntry:IOService:RTBuddyService
+    | |   |     | | +-o AppleSPUFirmwareService class: IORegistryEntry:IOService:RTBuddyFirmwareService:AppleSPUFirmwareService
+    | |   |     | +-o RTBuddyIOReportingEndpoint class: IORegistryEntry:IOService:RTBuddyBuiltinEndpoint:RTBuddyIOReportingEndpoint
+    | |   |     | +-o AOPEndpoint1 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000013 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o SPUApp class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | |   | +-o AppleSPUAppDriver class: IORegistryEntry:IOService:AppleSPUAppDriver
+    | |   |     | |   |   +-o AppleSPUProfileDriver class: IORegistryEntry:IOService:AppleSPUProfileDriver
+    | |   |     | |   +-o AOP_spherecontrol class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | |   | +-o AppleSPUSphereDriver class: IORegistryEntry:IOService:AppleSPUSphereDriver
+    | |   |     | |   +-o AOP_baseband class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | |   | +-o AppleSPUBasebandDriver class: IORegistryEntry:IOService:AppleSPUBasebandDriver
+    | |   |     | |   +-o arc class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | |   +-o btmspk class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | +-o AOPEndpoint2 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000010 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o accel class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |       | +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |       |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |       |   +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | +-o AOPEndpoint3 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000011 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o gyro class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |       | +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |       |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |       |   +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | +-o AOPEndpoint4 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000014 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o compass class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |       | +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |       |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |       |   +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | +-o AOPEndpoint5 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000015 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o pressure class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |       | +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |       |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |       |   +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | +-o AOPEndpoint6 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@1000001c class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o wakehint class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |   | +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |   |   +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |   |   | +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |   |   |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |   |   |   +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |   |   +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | |   +-o gesture class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |   | +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |   |   +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |   |     +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |   |       +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |   |       +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |   |       +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |   |       +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |   +-o orientation class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |       | +-o IOHIDEventDriver class: IORegistryEntry:IOService:IOHIDEventService:IOHIDEventDriver
+    | |   |     | |       |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | +-o AOPEndpoint7 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@1000000b class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o mca class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | +-o AOPEndpoint8 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000018 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o cma class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |         +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |           +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |           +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | +-o AOPEndpoint9 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000019 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o devmotion class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |         +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |           +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |           +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | +-o AOPEndpoint10 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@1000001d class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o borealis class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | |     +-o com_apple_audio_IOBorealisOwl class: IORegistryEntry:IOService:com_apple_audio_IOBorealisOwl
+    | |   |     | |       +-o com_apple_audio_IOBorealisOwlUserClient class: IORegistryEntry:IOService:IOUserClient:com_apple_audio_IOBorealisOwlUserClient
+    | |   |     | +-o AOPEndpoint11 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000000 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o AOP_profile class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | |     +-o AppleSPUProfileFirmwareDriver class: IORegistryEntry:IOService:AppleSPUProfileFirmwareDriver
+    | |   |     | +-o AOPEndpoint12 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@1000001f class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o prox class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |       | +-o AppleProxHIDEventDriver class: IORegistryEntry:IOService:IOHIDEventService:IOHIDEventDriver:AppleProxHIDEventDriver
+    | |   |     | |       |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | +-o AOPEndpoint13 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@1000001e class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o aop-audio class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | +-o AOPEndpoint14 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000006 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o mux class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUAppInterface
+    | |   |     | +-o AOPEndpoint15 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000008 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o aop-button class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |       | +-o AppleSPUButtonDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver:AppleSPUButtonDriver
+    | |   |     | |       |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | |       |   +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     | |       +-o AppleSPUHIDDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDeviceUserClient
+    | |   |     | +-o AOPEndpoint16 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000020 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o turtle class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |         +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |           +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | +-o AOPEndpoint17 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@10000003 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o mesa class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |         +-o AppleSPUMesaDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver:AppleSPUMesaDriver
+    | |   |     | |           +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | +-o AOPEndpoint18 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     | | +-o AppleSPU@1000001a class: IORegistryEntry:IOService:AppleSPU
+    | |   |     | |   +-o devmotion6 class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     | |     +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     | |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     | |         +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     | |           +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     | +-o AOPEndpoint19 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |     |   +-o AppleSPU@10000017 class: IORegistryEntry:IOService:AppleSPU
+    | |   |     |     +-o devmotion10 class: IORegistryEntry:IOService:AppleSPUInterface:AppleSPUHIDInterface
+    | |   |     |       +-o AppleSPUHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleSPUHIDDevice
+    | |   |     |         +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     |           +-o AppleSPUHIDDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleSPUHIDDriver
+    | |   |     |             +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     |             +-o AppleSPUHIDDriverUserClient class: IORegistryEntry:IOService:IOUserClient:AppleSPUHIDDriverUserClient
+    | |   |     +-o AppleSPUTimesyncV2 class: IORegistryEntry:IOService:AppleSPUTimesync:AppleSPUTimesyncV2
+    | |   +-o aop-gpio@100F0000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XGPIOIC class: IORegistryEntry:IOService:IOInterruptController:AppleS5L8960XGPIOIC
+    | |   +-o pmp@E300000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleA7IOPV2PMP class: IORegistryEntry:IOService:IOSlaveCPU:AppleA7IOP:AppleA7IOPV2:AppleA7IOPV2PMP
+    | |   |   +-o iop-pmp-nub class: IORegistryEntry:IOService:AppleA7IOPNub
+    | |   |     +-o RTBuddy class: IORegistryEntry:IOService:IOSlaveProcessor:RTBuddy
+    | |   |       +-o RTBuddyService class: IORegistryEntry:IOService:RTBuddyService
+    | |   |       +-o AppleT8010PMPFirmware class: IORegistryEntry:IOService:RTBuddyFirmwareService:ApplePMPFirmware:AppleT8010PMPFirmware
+    | |   |       +-o RTBuddyIOReportingEndpoint class: IORegistryEntry:IOService:RTBuddyBuiltinEndpoint:RTBuddyIOReportingEndpoint
+    | |   |       +-o PMPEndpoint1 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |         +-o ApplePMP class: IORegistryEntry:IOService:ApplePMP
+    | |   +-o sep@DA00000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleA7IOPV2 class: IORegistryEntry:IOService:IOSlaveCPU:AppleA7IOP:AppleA7IOPV2
+    | |   |   +-o iop-sep-nub class: IORegistryEntry:IOService:AppleA7IOPNub
+    | |   |     +-o AppleSEPManager class: IORegistryEntry:IOService:IOSlaveProcessor:AppleSEPManager
+    | |   |       +-o NVMeSEPNotifier class: IORegistryEntry:IOService:NVMeSEPNotifier
+    | |   +-o sio@AE00000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleA7IOPV2 class: IORegistryEntry:IOService:IOSlaveCPU:AppleA7IOP:AppleA7IOPV2
+    | |   |   +-o iop-sio-nub class: IORegistryEntry:IOService:AppleA7IOPNub
+    | |   |     +-o AppleSmartIO class: IORegistryEntry:IOService:IOSlaveProcessor:AppleSmartIO
+    | |   |       +-o sio-dma class: IORegistryEntry:IOService:AppleSmartIODMANub
+    | |   |         +-o IODMAController00000034 class: IORegistryEntry:IOService:IODMAController:AppleSmartIODMAController
+    | |   +-o uart0@A0C0000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSerial class: IORegistryEntry:IOService:AppleOnboardSerialBusInterface:AppleMMIOSerial:AppleSamsungSerial
+    | |   |   +-o debug-console class: IORegistryEntry:IOService:IOSerialStreamSync:IORS232SerialStreamSync:AppleOnboardSerialSync:AppleSimpleUARTSync
+    | |   |     +-o AppleOnboardSerialBSDClient class: IORegistryEntry:IOService:AppleOnboardSerialBSDClient
+    | |   |     +-o IOSerialBSDClient class: IORegistryEntry:IOService:IOSerialBSDClient
+    | |   +-o uart1@A0C4000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSerial class: IORegistryEntry:IOService:AppleOnboardSerialBusInterface:AppleMMIOSerial:AppleSamsungSerial
+    | |   |   +-o bluetooth class: IORegistryEntry:IOService:IOSerialStreamSync:IORS232SerialStreamSync:AppleOnboardSerialSync:AppleSimpleUARTSync
+    | |   |     +-o AppleOnboardSerialBSDClient class: IORegistryEntry:IOService:AppleOnboardSerialBSDClient
+    | |   |     | +-o AppleOnboardSerialSkywalkInterface class: IORegistryEntry:IOService:IOSkywalkInterface:AppleOnboardSerialSkywalkInterface
+    | |   |     |   +-o IOSkywalkKernelPipeBSDClient class: IORegistryEntry:IOService:IOSkywalkBSDClient:IOSkywalkKernelPipeBSDClient
+    | |   |     +-o IOSerialBSDClient class: IORegistryEntry:IOService:IOSerialBSDClient
+    | |   |     +-o BTReset class: IORegistryEntry:IOService:BTReset
+    | |   +-o uart3@A0CC000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSerial class: IORegistryEntry:IOService:AppleOnboardSerialBusInterface:AppleMMIOSerial:AppleSamsungSerial
+    | |   |   +-o stockholm class: IORegistryEntry:IOService:IOSerialStreamSync:IORS232SerialStreamSync:AppleOnboardSerialSync:AppleSimpleUARTSync
+    | |   |     +-o AppleOnboardSerialBSDClient class: IORegistryEntry:IOService:AppleOnboardSerialBSDClient
+    | |   |     +-o IOSerialBSDClient class: IORegistryEntry:IOService:IOSerialBSDClient
+    | |   |     +-o AppleStockholmControl class: IORegistryEntry:IOService:AppleStockholmControl
+    | |   +-o uart4@A0D0000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSerial class: IORegistryEntry:IOService:AppleOnboardSerialBusInterface:AppleMMIOSerial:AppleSamsungSerial
+    | |   |   +-o wlan class: IORegistryEntry:IOService:IOSerialStreamSync:IORS232SerialStreamSync:AppleOnboardSerialSync:AppleSimpleUARTSync
+    | |   |     +-o AppleOnboardSerialBSDClient class: IORegistryEntry:IOService:AppleOnboardSerialBSDClient
+    | |   |     +-o IOSerialBSDClient class: IORegistryEntry:IOService:IOSerialBSDClient
+    | |   |     +-o AppleBCMWLANBusInterfacePCIe class: IORegistryEntry:IOService:AppleBCMWLANBusInterface:AppleBCMWLANBusInterfacePCIe
+    | |   |       +-o CCLogPipe class: IORegistryEntry:IOService:CCPipe:CCLogPipe
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       +-o CCLogPipe class: IORegistryEntry:IOService:CCPipe:CCLogPipe
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       +-o CCDataPipe class: IORegistryEntry:IOService:CCPipe:CCDataPipe
+    | |   |       | +-o CCDataStream class: IORegistryEntry:IOService:CCStream:CCDataStream
+    | |   |       | | +-o CCFaultReporter class: IORegistryEntry:IOService:CCFaultReporter
+    | |   |       | +-o CCDataStream class: IORegistryEntry:IOService:CCStream:CCDataStream
+    | |   |       | +-o CCDataStream class: IORegistryEntry:IOService:CCStream:CCDataStream
+    | |   |       | +-o CCDataStream class: IORegistryEntry:IOService:CCStream:CCDataStream
+    | |   |       +-o CCLogPipe class: IORegistryEntry:IOService:CCPipe:CCLogPipe
+    | |   |       | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       +-o AppleBCMWLANCore class: IORegistryEntry:IOService:IONetworkController:IOEthernetController:IO80211Controller:AppleBCMWLANCore
+    | |   |       | +-o CCLogPipe class: IORegistryEntry:IOService:CCPipe:CCLogPipe
+    | |   |       | | +-o CCIOReporterLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream:CCIOReporterLogStream
+    | |   |       | +-o CCLogPipe class: IORegistryEntry:IOService:CCPipe:CCLogPipe
+    | |   |       | | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o IOImageLoader class: IORegistryEntry:IOService:IOImageLoader
+    | |   |       | | +-o BCMWLANFirmware4355_Hashstore class: IORegistryEntry:IOService:IOImageLoaderDatastore:IOImageLoaderHashstore:BCMWLANFirmware4355_Hashstore
+    | |   |       | | +-o IOImageLoaderRequest class: IORegistryEntry:IOService:IOImageLoaderRequest
+    | |   |       | +-o AppleBCMWLANSkywalkInterface class: IORegistryEntry:IOService:IOSkywalkInterface:IOSkywalkNetworkInterface:IOSkywalkEthernetInterface:IO80211SkywalkInterface:AppleBCMWLANSkywalkInterface
+    | |   |       | | +-o IOSkywalkLegacyEthernet class: IORegistryEntry:IOService:IONetworkController:IOEthernetController:IO80211Controller
+    | |   |       | | | +-o en0 class: IORegistryEntry:IOService:IONetworkInterface:IOEthernetInterface:IOSkywalkLegacyEthernetInterface
+    | |   |       | | |   +-o IONetworkStack class: IORegistryEntry:IOService:IONetworkStack
+    | |   |       | | |     +-o IONetworkStackUserClient class: IORegistryEntry:IOService:IOUserClient:IONetworkStackUserClient
+    | |   |       | | +-o IOSkywalkNetworkBSDClient class: IORegistryEntry:IOService:IOSkywalkBSDClient:IOSkywalkNetworkBSDClient
+    | |   |       | +-o AppleBCMWLANIO80211APSTAInterface class: IORegistryEntry:IOService:IO80211VirtualInterface:IO80211P2PInterface:AppleBCMWLANIO80211VirtualInterface:AppleBCMWLANIO80211APSTAInterface
+    | |   |       | +-o CCDataPipe class: IORegistryEntry:IOService:CCPipe:CCDataPipe
+    | |   |       | | +-o CCIOReporterDataStream class: IORegistryEntry:IOService:CCStream:CCDataStream:CCIOReporterDataStream
+    | |   |       | +-o CCLogPipe class: IORegistryEntry:IOService:CCPipe:CCLogPipe
+    | |   |       | | +-o CCLogStream class: IORegistryEntry:IOService:CCStream:CCLogStream
+    | |   |       | +-o AppleBCMWLANProximityInterface class: IORegistryEntry:IOService:IO80211VirtualInterface:IO80211P2PInterface:AppleBCMWLANIO80211VirtualInterface:AppleBCMWLANProximityInterface
+    | |   |       +-o CCDataPipe class: IORegistryEntry:IOService:CCPipe:CCDataPipe
+    | |   |         +-o CCDataStream class: IORegistryEntry:IOService:CCStream:CCDataStream
+    | |   +-o uart5@A0D4000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSerial class: IORegistryEntry:IOService:AppleOnboardSerialBusInterface:AppleMMIOSerial:AppleSamsungSerial
+    | |   |   +-o gas-gauge class: IORegistryEntry:IOService:IOSerialStreamSync:IORS232SerialStreamSync:AppleOnboardSerialSync:AppleSimpleUARTSync
+    | |   |     +-o AppleOnboardSerialBSDClient class: IORegistryEntry:IOService:AppleOnboardSerialBSDClient
+    | |   |     +-o IOSerialBSDClient class: IORegistryEntry:IOService:IOSerialBSDClient
+    | |   |     +-o AppleHDQGasGaugeControl class: IORegistryEntry:IOService:AppleHDQGasGaugeControl
+    | |   |       +-o AppleHDQGasGaugeControlUserClient class: IORegistryEntry:IOService:IOUserClient:AppleHDQGasGaugeControlUserClient
+    | |   |       +-o AppleHDQGasGaugeControlUserClient class: IORegistryEntry:IOService:IOUserClient:AppleHDQGasGaugeControlUserClient
+    | |   |       +-o AppleHDQGasGaugeControlUserClient class: IORegistryEntry:IOService:IOUserClient:AppleHDQGasGaugeControlUserClient
+    | |   +-o uart6@A0D8000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSerial class: IORegistryEntry:IOService:AppleOnboardSerialBusInterface:AppleMMIOSerial:AppleSamsungSerial
+    | |   |   +-o iap class: IORegistryEntry:IOService:IOSerialStreamSync:IORS232SerialStreamSync:AppleOnboardSerialSync:AppleSimpleUARTSync
+    | |   |     +-o AppleOnboardSerialBSDClient class: IORegistryEntry:IOService:AppleOnboardSerialBSDClient
+    | |   |     +-o IOSerialBSDClient class: IORegistryEntry:IOService:IOSerialBSDClient
+    | |   |     +-o IOAccessoryPortSerialSync@1 class: IORegistryEntry:IOService:IOAccessoryTransport:IOAccessoryPort:IOAccessoryPortSerial:IOAccessoryPortSerialSync
+    | |   |       +-o IOAccessoryPortUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccessoryPortUserClient
+    | |   +-o uart7@A0DC000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSerial class: IORegistryEntry:IOService:AppleOnboardSerialBusInterface:AppleMMIOSerial:AppleSamsungSerial
+    | |   |   +-o homer class: IORegistryEntry:IOService:IOSerialStreamSync:IORS232SerialStreamSync:AppleOnboardSerialSync:AppleSimpleUARTSync
+    | |   |     +-o AppleOnboardSerialBSDClient class: IORegistryEntry:IOService:AppleOnboardSerialBSDClient
+    | |   |     +-o IOSerialBSDClient class: IORegistryEntry:IOService:IOSerialBSDClient
+    | |   |     +-o AppleHIDTransportDeviceUART class: IORegistryEntry:IOService:AIDService:AppleHIDTransportDevice:AppleHIDTransportDeviceUART
+    | |   |     | +-o AppleHIDTransportBootloaderSTMB class: IORegistryEntry:IOService:AIDService:AppleHIDTransportBootloader:AppleHIDTransportBootloaderSTMB
+    | |   |     | +-o AppleHIDTransportProtocolUART class: IORegistryEntry:IOService:AIDService:AppleHIDTransportProtocol:AppleHIDTransportProtocolUART
+    | |   |     |   +-o sysctl class: IORegistryEntry:IOService:AIDService:AIDInterface:AppleHIDTransportInterface:AppleHIDTransportManagement
+    | |   |     |   +-o homer-iface class: IORegistryEntry:IOService:AIDService:AIDInterface:AppleHIDTransportInterface
+    | |   |     |   | +-o AppleHIDTransportHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleHIDTransportHIDDevice
+    | |   |     |   |   +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     |   |     +-o AppleHomerDriver class: IORegistryEntry:IOService:IOHIDEventService:AppleHomerDriver
+    | |   |     |   |       +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     |   +-o homer-temp class: IORegistryEntry:IOService:AIDService:AIDInterface:AppleHIDTransportInterface
+    | |   |     |     +-o AppleHIDTransportHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleHIDTransportHIDDevice
+    | |   |     |       +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |     |         +-o AppleHomerTemperature class: IORegistryEntry:IOService:IOHIDEventService:AppleHomerTemperature
+    | |   |     |           +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |     +-o AIDImageDownloader class: IORegistryEntry:IOService:AppleFirmwareUpdateKext:AIDImageDownloader
+    | |   +-o spi1@A084000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSPIController class: IORegistryEntry:IOService:AppleARMSPIController:AppleSamsungSPIController
+    | |   |   +-o audio-codec@0 class: IORegistryEntry:IOService:AppleARMSPIDevice
+    | |   |   | +-o AppleCS42L71Audio class: IORegistryEntry:IOService:AppleEmbeddedAudio:AppleCSSPIAudio:AppleCSSPIv2Audio:AppleCS42L71Audio
+    | |   |   |   +-o AppleCS42L71MikeyBus class: IORegistryEntry:IOService:IOMikeyBusController:AppleCSCodecMikeyBus:AppleCSCodecMikeyBusV11:AppleCS42L71MikeyBus
+    | |   |   |     +-o IOMikeyBusDockPort class: IORegistryEntry:IOService:IOMikeyBusPort:IOMikeyBusDockPort
+    | |   |   +-o maggie-arc@1 class: IORegistryEntry:IOService:AppleARMSPIDevice
+    | |   |     +-o AppleMaggieArcAudio class: IORegistryEntry:IOService:AppleEmbeddedAudio:AppleMaggieArcAudio
+    | |   |       +-o AppleMaggie class: IORegistryEntry:IOService:AppleMaggie
+    | |   |         +-o AppleMaggieUserClient class: IORegistryEntry:IOService:IOUserClient:AppleMaggieUserClient
+    | |   +-o spi2@A088000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSPIController class: IORegistryEntry:IOService:AppleARMSPIController:AppleSamsungSPIController
+    | |   |   +-o multi-touch@0 class: IORegistryEntry:IOService:AppleARMSPIDevice
+    | |   |     +-o AppleHIDTransportDeviceSPI class: IORegistryEntry:IOService:AIDService:AppleHIDTransportDevice:AppleHIDTransportDeviceSPI
+    | |   |       +-o AppleHIDTransportBootloaderHBPP class: IORegistryEntry:IOService:AIDService:AppleHIDTransportBootloader:AppleHIDTransportBootloaderHBPP
+    | |   |       | +-o AppleHIDTransportBootloaderUserClient class: IORegistryEntry:IOService:IOUserClient:AIDUserClient:AppleHIDTransportBootloaderUserClient
+    | |   |       +-o AppleHIDTransportProtocolZ2 class: IORegistryEntry:IOService:AIDService:AppleHIDTransportProtocol:AppleHIDTransportProtocolZ2
+    | |   |         +-o grape class: IORegistryEntry:IOService:AIDService:AIDInterface:AppleHIDTransportInterface
+    | |   |           +-o AppleHIDTransportHIDDevice class: IORegistryEntry:IOService:IOHIDDevice:AppleHIDTransportHIDDevice
+    | |   |             +-o IOHIDInterface class: IORegistryEntry:IOService:IOHIDInterface
+    | |   |               +-o AppleMultitouchHIDService class: IORegistryEntry:IOService:AppleMultitouchHIDService
+    | |   |                 +-o AppleMultitouchDevice class: IORegistryEntry:IOService:AppleMultitouchDevice
+    | |   |                   +-o AppleMultitouchDeviceUserClient class: IORegistryEntry:IOService:IOUserClient:AppleMultitouchDeviceUserClient
+    | |   +-o spi3@A08C000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSamsungSPIController class: IORegistryEntry:IOService:AppleARMSPIController:AppleSamsungSPIController
+    | |   |   +-o mesa@0 class: IORegistryEntry:IOService:AppleARMSPIDevice
+    | |   |     +-o AppleSandDollar class: IORegistryEntry:IOService:AppleBiometricSensor:AppleSPIBiometricSensor:AppleMesa:AppleSandDollar
+    | |   |       +-o AppleMesaSEPDriver class: IORegistryEntry:IOService:IOBiometricService:IOSEPBiometricService:IOBiometricSensorInterface:AppleMesaSEPDriverInterface:AppleMesaSEPDriver
+    | |   |       | +-o AppleBiometricServices class: IORegistryEntry:IOService:AppleBiometricServices
+    | |   |       |   +-o AppleBiometricServicesUserClient class: IORegistryEntry:IOService:IOUserClient:AppleBiometricServicesUserClient
+    | |   |       +-o AppleMesaShim class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMesaShim
+    | |   |         +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o i2c0@A110000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8940XI2CController class: IORegistryEntry:IOService:AppleARMIICController:AppleS5L8940XI2CController
+    | |   |   +-o tristar@1A class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |   | +-o AppleTriStar2@1 class: IORegistryEntry:IOService:IOAccessoryManager:IOAccessoryManagerAID:IOAccessoryDock9Pin:AppleTriStarDock:AppleTriStarBuiltIn
+    | |   |   |   +-o AppleCBTL1610 class: IORegistryEntry:IOService:IOAccessoryTransport:IOAccessoryIDBusTransport:AppleTriStarIC:AppleTHS7383:AppleCBTL1610
+    | |   |   |   +-o IOAccessoryUSBConnectShim class: IORegistryEntry:IOService:IOAccessoryUSBConnectShim
+    | |   |   |   +-o IOAccessoryTRM class: IORegistryEntry:IOService:IOAccessoryTRM
+    | |   |   |   +-o IOAccessoryUSBPowerSourceDetect class: IORegistryEntry:IOService:IOAccessoryUSBPowerSourceDetect
+    | |   |   |   +-o IOAccessoryManagerUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccessoryManagerUserClient
+    | |   |   +-o display-pmu@27 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |   | +-o AppleChestnutDisplayPMU class: IORegistryEntry:IOService:AppleDisplayPMU:AppleChestnutDisplayPMU
+    | |   |   +-o lm3539@62 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |   | +-o AppleLMBacklight class: IORegistryEntry:IOService:AppleLMBacklight
+    | |   |   +-o boost@EA class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   +-o i2c1@A111000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8940XI2CController class: IORegistryEntry:IOService:AppleARMIICController:AppleS5L8940XI2CController
+    | |   |   +-o pmu@74 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |   | +-o AppleD2333PMU class: IORegistryEntry:IOService:IOInterruptController:AppleDialogPMU:AppleD2333PMU
+    | |   |   |   +-o AppleD2333PMURTC class: IORegistryEntry:IOService:AppleARMRTC:AppleD2333PMURTC
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |   +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |   |     +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o tigris@75 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |     +-o AppleSN2400Charger class: IORegistryEntry:IOService:AppleSN2400Charger
+    | |   |       +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |       | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |       +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |       | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |       +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |       | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |       +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |       | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |       +-o AppleARMPMUTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUTempSensor
+    | |   |       | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |       +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |       | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |       +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |       | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |       +-o AppleARMPMUPowerSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleARMPMUSensor:AppleARMPMUPowerSensor
+    | |   |         +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o i2c2@A112000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8940XI2CController class: IORegistryEntry:IOService:AppleARMIICController:AppleS5L8940XI2CController
+    | |   |   +-o als@29 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |   | +-o AppleCT821 class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleEmbeddedI2CLightSensor:AppleCT821
+    | |   |   |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o audio-speaker-top@40 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |   | +-o AppleCS35L26Amp class: IORegistryEntry:IOService:AppleEmbeddedAudio:AppleI2CMultipleAudio:AppleCSI2CMultipleAudio:AppleCS35L25Amp:AppleCS35L26Amp
+    | |   |   +-o audio-convoy@21 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |     +-o AppleAD81006 class: IORegistryEntry:IOService:AppleEmbeddedExternalAudioObject:AppleAD81006
+    | |   +-o i2c3@A113000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8940XI2CController class: IORegistryEntry:IOService:AppleARMIICController:AppleS5L8940XI2CController
+    | |   |   +-o mic-temp-sens1@54 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |   | +-o AppleICA60 class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleTemperatureSensor:AppleICA60
+    | |   |   |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o mic-temp-sens2@56 class: IORegistryEntry:IOService:AppleARMIICDevice
+    | |   |     +-o AppleICA60 class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleTemperatureSensor:AppleICA60
+    | |   |       +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o otgphyctrl@C000030 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XUSBPhy class: IORegistryEntry:IOService:AppleUSBPhy:AppleS5L8960XUSBPhy
+    | |   +-o usb-complex@C900000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XUSBArbitrator class: IORegistryEntry:IOService:AppleEmbeddedUSBArbitrator:AppleS5L8960XUSBArbitrator
+    | |   |   +-o usb-device@100000 class: IORegistryEntry:IOService:AppleEmbeddedUSBNub
+    | |   |     +-o AppleSynopsysOTG3Device@16 class: IORegistryEntry:IOService:IOUSBDeviceController:AppleSynopsysOTGDevice:AppleSynopsysOTG3Device
+    | |   |       +-o PTP@0 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o IOUSBDeviceInterfaceUserClient class: IORegistryEntry:IOService:IOUserClient:IOUSBDeviceInterfaceUserClient
+    | |   |       +-o USBAudioControl@1 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleUSBMike class: IORegistryEntry:IOService:IOAudio2Device:AppleUSBMike
+    | |   |       +-o USBAudioStreaming@2 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleUSBMike class: IORegistryEntry:IOService:IOAudio2Device:AppleUSBMike
+    | |   |       |   +-o IOAudio2DeviceUserClient class: IORegistryEntry:IOService:IOUserClient:IOAudio2DeviceUserClient
+    | |   |       +-o IapOverUsbHid@3 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o IOAccessoryPortUSB@2 class: IORegistryEntry:IOService:IOAccessoryTransport:IOAccessoryPort:IOAccessoryPortUSB
+    | |   |       |   +-o IOAccessoryPortUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccessoryPortUserClient
+    | |   |       +-o AppleUSBMux@4 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleUSBDeviceMux class: IORegistryEntry:IOService:AppleUSBDeviceMux
+    | |   |       +-o AppleUSBEthernet@5 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleUSBEthernetDevice class: IORegistryEntry:IOService:IONetworkController:IOEthernetController:AppleUSBEthernetDevice
+    | |   |       |   +-o en1 class: IORegistryEntry:IOService:IONetworkInterface:IOEthernetInterface
+    | |   |       |     +-o IONetworkStack class: IORegistryEntry:IOService:IONetworkStack
+    | |   |       |       +-o IONetworkStackUserClient class: IORegistryEntry:IOService:IOUserClient:IONetworkStackUserClient
+    | |   |       +-o Valeria@6 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o IOUSBDeviceInterfaceUserClient class: IORegistryEntry:IOService:IOUserClient:IOUSBDeviceInterfaceUserClient
+    | |   |       +-o USBAudio2Control@7 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleUSBDeviceAudioController class: IORegistryEntry:IOService:AppleUSBDeviceAudioController
+    | |   |       +-o USBAudio2StreamIN@8 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleUSBDeviceAudioController class: IORegistryEntry:IOService:AppleUSBDeviceAudioController
+    | |   |       +-o USBAudio2StreamOUT@9 class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleUSBDeviceAudioController class: IORegistryEntry:IOService:AppleUSBDeviceAudioController
+    | |   |       +-o IDAMInterface@a class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleIDAMInterface class: IORegistryEntry:IOService:AppleIDAMInterface
+    | |   |       +-o AppleUSBNCMControl@b class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |       | +-o AppleUSBDeviceNCMControl class: IORegistryEntry:IOService:AppleUSBDeviceNCMControl
+    | |   |       +-o AppleUSBNCMData@c class: IORegistryEntry:IOService:IOUSBDeviceInterface
+    | |   |         +-o AppleUSBDeviceNCMData class: IORegistryEntry:IOService:IONetworkController:IOEthernetController:AppleUSBDeviceNCMData
+    | |   |           +-o en2 class: IORegistryEntry:IOService:IONetworkInterface:IOEthernetInterface
+    | |   |             +-o IONetworkStack class: IORegistryEntry:IOService:IONetworkStack
+    | |   |               +-o IONetworkStackUserClient class: IORegistryEntry:IOService:IOUserClient:IONetworkStackUserClient
+    | |   +-o mipi-dsim@6600000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSynopsysMIPIDSIController class: IORegistryEntry:IOService:AppleARMMIPIDSIController:AppleSynopsysMIPIDSIController
+    | |   |   +-o lcd class: IORegistryEntry:IOService:AppleARMMIPIDSIDevice
+    | |   |     +-o ApplePinotLCD class: IORegistryEntry:IOService:ApplePinotLCD
+    | |   +-o disp0@6200000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleMobileADBE0 class: IORegistryEntry:IOService:IOMobileFramebuffer:AppleDisplayPipe:AppleH7DisplayPipe:AppleCLCD:AppleMobileADBE0
+    | |   | | +-o IOMobileFramebufferUserClient class: IORegistryEntry:IOService:IOUserClient:IOMobileFramebufferUserClient
+    | |   | | +-o IOMobileFramebufferUserClient class: IORegistryEntry:IOService:IOUserClient:IOMobileFramebufferUserClient
+    | |   | | +-o IOMobileFramebufferUserClient class: IORegistryEntry:IOService:IOUserClient:IOMobileFramebufferUserClient
+    | |   | | +-o IOMobileFramebufferUserClient class: IORegistryEntry:IOService:IOUserClient:IOMobileFramebufferUserClient
+    | |   | | +-o IOMobileFramebufferUserClient class: IORegistryEntry:IOService:IOUserClient:IOMobileFramebufferUserClient
+    | |   | +-o ADBEParamFIFO class: IORegistryEntry:IOService:AppleARMParamFIFO:IOMFBParamFIFO:ADBEParamFIFO
+    | |   | +-o ADPParamFIFO class: IORegistryEntry:IOService:AppleARMParamFIFO:IOMFBParamFIFO:ADPParamFIFO
+    | |   +-o dart-disp0@6304000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-disp0@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o scaler0@7900000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleM2ScalerCSCDriver class: IORegistryEntry:IOService:AppleM2ScalerCSCDriver
+    | |   +-o dart-scaler@7908000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-scaler@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o jpeg0@7B00000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleJPEGDriver class: IORegistryEntry:IOService:AppleJPEGDriver
+    | |   +-o dart-jpeg0@7B04000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-jpeg0@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o jpeg1@7B08000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleJPEGDriver class: IORegistryEntry:IOService:AppleJPEGDriver
+    | |   +-o dart-jpeg1@7B0C000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-jpeg1@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o isp@5B00000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleH9CamIn class: IORegistryEntry:IOService:AppleH9CamIn
+    | |   +-o dart-isp@5B28000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-isp@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o ave@7D00000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleAVE2Driver class: IORegistryEntry:IOService:AppleAVE2Driver
+    | |   +-o dart-ave@7C30000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-ave@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o vxd@8100000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleD5500 class: IORegistryEntry:IOService:AppleD5500
+    | |   +-o sgx@1000000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AGXAcceleratorG9P_B0 class: IORegistryEntry:IOService:IOAcceleratorES:IOGraphicsAccelerator2:AGXAccelerator:AGXFamilyAccelerator:AGXAcceleratorG5:AGXAcceleratorG9:AGXAcceleratorG9P_B0
+    | |   |   +-o AGXDevice class: IORegistryEntry:IOService:IOUserClient:IOAccelDevice2:AGXDevice
+    | |   |   +-o AGXSharedUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccelSharedUserClient2:AGXSharedUserClient
+    | |   |   +-o AGXCommandQueue class: IORegistryEntry:IOService:IOUserClient:IOAccelSubmitter2:IOAccelCommandQueue2:AGXCommandQueue
+    | |   |   +-o AGXDevice class: IORegistryEntry:IOService:IOUserClient:IOAccelDevice2:AGXDevice
+    | |   |   +-o AGXSharedUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccelSharedUserClient2:AGXSharedUserClient
+    | |   |   +-o AGXDevice class: IORegistryEntry:IOService:IOUserClient:IOAccelDevice2:AGXDevice
+    | |   |   +-o AGXSharedUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccelSharedUserClient2:AGXSharedUserClient
+    | |   |   +-o AGXCommandQueue class: IORegistryEntry:IOService:IOUserClient:IOAccelSubmitter2:IOAccelCommandQueue2:AGXCommandQueue
+    | |   |   +-o AGXCommandQueue class: IORegistryEntry:IOService:IOUserClient:IOAccelSubmitter2:IOAccelCommandQueue2:AGXCommandQueue
+    | |   |   +-o AGXDevice class: IORegistryEntry:IOService:IOUserClient:IOAccelDevice2:AGXDevice
+    | |   |   +-o AGXSharedUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccelSharedUserClient2:AGXSharedUserClient
+    | |   |   +-o AGXDevice class: IORegistryEntry:IOService:IOUserClient:IOAccelDevice2:AGXDevice
+    | |   |   +-o AGXSharedUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccelSharedUserClient2:AGXSharedUserClient
+    | |   |   +-o AGXDevice class: IORegistryEntry:IOService:IOUserClient:IOAccelDevice2:AGXDevice
+    | |   |   +-o AGXSharedUserClient class: IORegistryEntry:IOService:IOUserClient:IOAccelSharedUserClient2:AGXSharedUserClient
+    | |   +-o gfx-kf@1D20000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleA7IOPV2GFX class: IORegistryEntry:IOService:IOSlaveCPU:AppleA7IOP:AppleA7IOPV2:AppleA7IOPV2GFX
+    | |   |   +-o iop-gfx-nub class: IORegistryEntry:IOService:AppleA7IOPNub
+    | |   |     +-o RTBuddy class: IORegistryEntry:IOService:IOSlaveProcessor:RTBuddy
+    | |   |       +-o RTBuddyService class: IORegistryEntry:IOService:RTBuddyService
+    | |   |       | +-o AGXFirmwareKextG9PRTBuddy class: IORegistryEntry:IOService:AGXFirmwareKextRTBuddy:AGXFirmwareKextG9PRTBuddy
+    | |   |       +-o GFXEndpoint1 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   |       +-o GFXEndpoint2 class: IORegistryEntry:IOService:RTBuddyEndpointService
+    | |   +-o i2s-switch@A004000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleAE2I2SSwitch5 class: IORegistryEntry:IOService:AppleARMIISSwitch:AppleAE2I2SSwitch5
+    | |   +-o aop-i2s-switch@10540000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleAE2AOPI2SSwitch1 class: IORegistryEntry:IOService:AppleARMIISSwitch:AppleAE2AOPI2SSwitch1
+    | |   +-o mca0@A0A0000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleAE2MCA class: IORegistryEntry:IOService:AppleARMIISController:AppleAE2MCA
+    | |   |   +-o audio-codec@1310 class: IORegistryEntry:IOService:AppleARMIISDevice
+    | |   |     +-o Codec class: IORegistryEntry:IOService:IOAudio2Device:AppleARMDMAAudioDevice:AppleARMIISAudioDevice:AppleEmbeddedAudioDevice
+    | |   |       +-o IOAudio2DeviceUserClient class: IORegistryEntry:IOService:IOUserClient:IOAudio2DeviceUserClient
+    | |   +-o mca1@A0A4000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleAE2MCA class: IORegistryEntry:IOService:AppleARMIISController:AppleAE2MCA
+    | |   |   +-o virtual-mca1 class: IORegistryEntry:IOService:AppleARMIISDevice
+    | |   |     +-o AppleVirtualMCA class: IORegistryEntry:IOService:AppleVirtualMCA
+    | |   |       +-o virtual-mca1a class: IORegistryEntry:IOService:AppleARMIISController:AppleVirtualMCAController
+    | |   |       | +-o audio-speaker-top@1200 class: IORegistryEntry:IOService:AppleARMIISDevice:AppleVirtualMCADevice
+    | |   |       |   +-o Speaker class: IORegistryEntry:IOService:IOAudio2Device:AppleARMDMAAudioDevice:AppleARMIISAudioDevice:AppleEmbeddedAudioDevice
+    | |   |       |     +-o IOAudio2DeviceUserClient class: IORegistryEntry:IOService:IOUserClient:IOAudio2DeviceUserClient
+    | |   |       +-o virtual-mca1b class: IORegistryEntry:IOService:AppleARMIISController:AppleVirtualMCAController
+    | |   |         +-o maggie-arc@1200 class: IORegistryEntry:IOService:AppleARMIISDevice:AppleVirtualMCADevice
+    | |   |           +-o Actuator class: IORegistryEntry:IOService:IOAudio2Device:AppleARMDMAAudioDevice:AppleARMIISAudioDevice:AppleEmbeddedAudioDevice
+    | |   |             +-o IOAudio2DeviceUserClient class: IORegistryEntry:IOService:IOUserClient:IOAudio2DeviceUserClient
+    | |   +-o mca2@A0A8000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleAE2MCA class: IORegistryEntry:IOService:AppleARMIISController:AppleAE2MCA
+    | |   |   +-o virtual-mca2 class: IORegistryEntry:IOService:AppleARMIISDevice
+    | |   |     +-o AppleVirtualMCA class: IORegistryEntry:IOService:AppleVirtualMCA
+    | |   |       +-o virtual-mca2a class: IORegistryEntry:IOService:AppleARMIISController:AppleVirtualMCAController
+    | |   |       | +-o audio-codec-hawking@1200 class: IORegistryEntry:IOService:AppleARMIISDevice:AppleVirtualMCADevice
+    | |   |       |   +-o Hawking class: IORegistryEntry:IOService:IOAudio2Device:AppleARMDMAAudioDevice:AppleARMIISAudioDevice:AppleSecondaryAudio
+    | |   |       |     +-o IOAudio2DeviceUserClient class: IORegistryEntry:IOService:IOUserClient:IOAudio2DeviceUserClient
+    | |   |       +-o virtual-mca2b class: IORegistryEntry:IOService:AppleARMIISController:AppleVirtualMCAController
+    | |   |         +-o audio-codec-reference@1200 class: IORegistryEntry:IOService:AppleARMIISDevice:AppleVirtualMCADevice
+    | |   |         | +-o Reference class: IORegistryEntry:IOService:IOAudio2Device:AppleARMDMAAudioDevice:AppleARMIISAudioDevice:AppleSecondaryAudio
+    | |   |         |   +-o IOAudio2DeviceUserClient class: IORegistryEntry:IOService:IOUserClient:IOAudio2DeviceUserClient
+    | |   |         +-o audio-maggie-debug@1200 class: IORegistryEntry:IOService:AppleARMIISDevice:AppleVirtualMCADevice
+    | |   |           +-o MaggieDebug class: IORegistryEntry:IOService:IOAudio2Device:AppleARMDMAAudioDevice:AppleARMIISAudioDevice:AppleSecondaryAudio
+    | |   +-o mca3@A0AC000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleAE2MCA class: IORegistryEntry:IOService:AppleARMIISController:AppleAE2MCA
+    | |   |   +-o audio-baseband-voice@0 class: IORegistryEntry:IOService:AppleARMIISDevice
+    | |   |     +-o Baseband Voice class: IORegistryEntry:IOService:IOAudio2Device:AppleARMDMAAudioDevice:AppleARMIISAudioDevice:AppleSecondaryAudio
+    | |   |       +-o IOAudio2DeviceUserClient class: IORegistryEntry:IOService:IOUserClient:IOAudio2DeviceUserClient
+    | |   +-o mca4@A0B0000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleAE2MCA class: IORegistryEntry:IOService:AppleARMIISController:AppleAE2MCA
+    | |   |   +-o audio-codec-voice@1201 class: IORegistryEntry:IOService:AppleARMIISDevice
+    | |   |     +-o Mikeybus Secondary class: IORegistryEntry:IOService:IOAudio2Device:AppleARMDMAAudioDevice:AppleARMIISAudioDevice:AppleSecondaryAudio
+    | |   +-o apcie@10000000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT8010PCIe class: IORegistryEntry:IOService:IOPCIBridge:AppleEmbeddedPCIE:AppleT801xPCIe:AppleT8010PCIe
+    | |   |   +-o pci-bridge0@0 class: IORegistryEntry:IOService:IOPCIDevice
+    | |   |   | +-o IOPP class: IORegistryEntry:IOService:IOPCIBridge:IOPCI2PCIBridge
+    | |   |   |   +-o s3e@0 class: IORegistryEntry:IOService:IOPCIDevice
+    | |   |   |     +-o AppleEmbeddedNVMeController class: IORegistryEntry:IOService:IONVMeController:AppleNVMeController:AppleEmbeddedNVMeController
+    | |   |   |       +-o AppleEmbeddedNVMeTemperatureSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleEmbeddedNVMeTemperatureSensor
+    | |   |   |       | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   |       +-o AppleEmbeddedNVMeNVRAM class: IORegistryEntry:IOService:IONVRAMController:AppleEmbeddedNVMeNVRAM
+    | |   |   |       +-o NS_01@1 class: IORegistryEntry:IOService:IOBlockStorageDevice:IONVMeBlockStorageDevice:IOEmbeddedNVMeBlockDevice
+    | |   |   |       | +-o IOBlockStorageDriver class: IORegistryEntry:IOService:IOStorage:IOBlockStorageDriver
+    | |   |   |       |   +-o APPLE SSD AP0032K Media class: IORegistryEntry:IOService:IOStorage:IOMedia
+    | |   |   |       |     +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   |       |     +-o IOGUIDPartitionScheme class: IORegistryEntry:IOService:IOStorage:IOPartitionScheme:IOGUIDPartitionScheme
+    | |   |   |       |       +-o Container@1 class: IORegistryEntry:IOService:IOStorage:IOMedia
+    | |   |   |       |         +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   |       |         +-o AppleAPFSContainer class: IORegistryEntry:IOService:IOStorage:IOPartitionScheme:AppleAPFSContainer
+    | |   |   |       |           +-o System@1 class: IORegistryEntry:IOService:IOStorage:IOMedia:AppleAPFSVolume
+    | |   |   |       |           | +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   |       |           +-o Data@2 class: IORegistryEntry:IOService:IOStorage:IOMedia:AppleAPFSVolume
+    | |   |   |       |           | +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   |       |           +-o xART@3 class: IORegistryEntry:IOService:IOStorage:IOMedia:AppleAPFSVolume
+    | |   |   |       |           | +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   |       |           +-o Baseband Data@4 class: IORegistryEntry:IOService:IOStorage:IOMedia:AppleAPFSVolume
+    | |   |   |       |           | +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   |       |           +-o Update@5 class: IORegistryEntry:IOService:IOStorage:IOMedia:AppleAPFSVolume
+    | |   |   |       |             +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   |       +-o NS_02@2 class: IORegistryEntry:IOService:IOBlockStorageDevice:IONVMeBlockStorageDevice:IOEmbeddedNVMeBlockDevice
+    | |   |   |       | +-o IOBlockStorageDriver class: IORegistryEntry:IOService:IOStorage:IOBlockStorageDriver
+    | |   |   |       |   +-o APPLE SSD AP0032K Media class: IORegistryEntry:IOService:IOStorage:IOMedia
+    | |   |   |       |     +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   |       +-o AppleEmbeddedNVMeDiagnostics class: IORegistryEntry:IOService:AppleNANDConfigAccess:AppleEmbeddedNVMeDiagnostics
+    | |   |   |       | +-o AppleDiagnosticDataAccessReadOnly class: IORegistryEntry:IOService:AppleDiagnosticDataAccessReadOnly
+    | |   |   |       +-o NS_06 class: IORegistryEntry:IOService:IOBlockStorageDevice:IONVMeBlockStorageDevice:IOEmbeddedNVMeBlockDevice:IONVMeEffaceableDevice
+    | |   |   |       | +-o AppleEffaceableBlockDevice class: IORegistryEntry:IOService:AppleEffaceableStorage:AppleEffaceableBlockDevice
+    | |   |   |       +-o NS_07@7 class: IORegistryEntry:IOService:IOBlockStorageDevice:IONVMeBlockStorageDevice:IOEmbeddedNVMeBlockDevice
+    | |   |   |         +-o IOBlockStorageDriver class: IORegistryEntry:IOService:IOStorage:IOBlockStorageDriver
+    | |   |   |           +-o APPLE SSD AP0032K Media class: IORegistryEntry:IOService:IOStorage:IOMedia
+    | |   |   |             +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | |   |   +-o pci-bridge2@2 class: IORegistryEntry:IOService:IOPCIDevice
+    | |   |   | +-o IOPP class: IORegistryEntry:IOService:IOPCIBridge:IOPCI2PCIBridge
+    | |   |   |   +-o wlan@0 class: IORegistryEntry:IOService:IOPCIDevice
+    | |   |   +-o pci-bridge3@3 class: IORegistryEntry:IOService:IOPCIDevice
+    | |   |     +-o IOPP class: IORegistryEntry:IOService:IOPCIBridge:IOPCI2PCIBridge
+    | |   |       +-o baseband-pcie@0 class: IORegistryEntry:IOService:IOPCIDevice
+    | |   |         +-o AppleBasebandPCI class: IORegistryEntry:IOService:AppleBasebandPCI
+    | |   +-o nvme-mmu0@1004000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleNVMeMMU class: IORegistryEntry:IOService:IOMapper:AppleNVMeMMU
+    | |   +-o dart-apcie0@1008000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-apcie0@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o dart-apcie2@3008000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-apcie2@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o dart-apcie3@4008000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleS5L8960XDART class: IORegistryEntry:IOService:IODART:AppleS5L8960XDART
+    | |   |   +-o mapper-apcie3@0 class: IORegistryEntry:IOService:IODARTMapperNub
+    | |   |     +-o IODARTMapper class: IORegistryEntry:IOService:IOMapper:IODARTMapper
+    | |   +-o amc@0 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AMCTempSensor class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AMCTempSensor
+    | |   |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o sochot0@E0C4000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSocHot class: IORegistryEntry:IOService:AppleSocHot
+    | |   +-o sochot1@2F30000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleSocHot class: IORegistryEntry:IOService:AppleSocHot
+    | |   +-o tempsensor0@E0BC000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT700XTempSensor class: IORegistryEntry:IOService:ApplePMGRTempSensor:AppleT700XTempSensor
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |     +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o tempsensor1@E0BC000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT700XTempSensor class: IORegistryEntry:IOService:ApplePMGRTempSensor:AppleT700XTempSensor
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |     +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o tempsensor2@E0BC000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT700XTempSensor class: IORegistryEntry:IOService:ApplePMGRTempSensor:AppleT700XTempSensor
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |     +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o tempsensor3@2F30000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT700XTempSensor class: IORegistryEntry:IOService:ApplePMGRTempSensor:AppleT700XTempSensor
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |     +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o tempsensor4@2F30000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT700XTempSensor class: IORegistryEntry:IOService:ApplePMGRTempSensor:AppleT700XTempSensor
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |     +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o tempsensor5@2F30000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleT700XTempSensor class: IORegistryEntry:IOService:ApplePMGRTempSensor:AppleT700XTempSensor
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |     +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o dietempctl0 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleDieTempController class: IORegistryEntry:IOService:AppleDieTempController
+    | |   +-o vtempctl0 class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleVTempDispatcher class: IORegistryEntry:IOService:AppleVTempDispatcher
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |   | +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   |   +-o AppleMobsiTmpSADC class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleMobsiTmpSADC
+    | |   |     +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | |   +-o cpu-debug-interface class: IORegistryEntry:IOService:AppleARMIODevice
+    | |   | +-o AppleARMLightEmUp class: IORegistryEntry:IOService:AppleARMLightEmUp
+    | |   +-o swcpt@F00000 class: IORegistryEntry:IOService:AppleARMIODevice
+    | +-o buttons class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleM68Buttons class: IORegistryEntry:IOService:IOHIDEventService:AppleEmbeddedHIDEventService:AppleM68Buttons
+    | |   +-o IOHIDEventServiceUserClient class: IORegistryEntry:IOService:IOUserClient:IOHIDEventServiceUserClient
+    | +-o dock class: IORegistryEntry:IOService:IOPlatformDevice
+    | +-o charger class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleARMPMUCharger class: IORegistryEntry:IOService:IOPMPowerSource:AppleARMPMUPowerSource:AppleARMPMUCharger
+    | |   +-o AppleARMPMUAccessoryPS class: IORegistryEntry:IOService:IOAccessoryTransport:IOAccessoryPowerSource:AppleARMPMUAccessoryPS
+    | +-o backlight class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleARMBacklight class: IORegistryEntry:IOService:AppleARMBacklight
+    | +-o baseband class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleBasebandD101 class: IORegistryEntry:IOService:AppleBaseband:AppleBasebandPlatform:AppleBasebandPCIEDevice:AppleBasebandD101
+    | |   +-o AppleBasebandPCIICEControl class: IORegistryEntry:IOService:AppleBasebandPCIControl:AppleBasebandPCIICEControl
+    | |   | +-o AppleBasebandPCIRTIDevice class: IORegistryEntry:IOService:AppleBasebandPCIRTIDevice
+    | |   |   +-o AppleBasebandPCIRTIInterface class: IORegistryEntry:IOService:AppleBasebandPCIInterface:AppleBasebandPCIRTIInterface
+    | |   |   | +-o ADAM class: IORegistryEntry:IOService:AppleBasebandPCISkywalkProvider:AppleBasebandPCIPDPADAMSkywalk
+    | |   |   +-o AppleBasebandPCIRTIInterface class: IORegistryEntry:IOService:AppleBasebandPCIInterface:AppleBasebandPCIRTIInterface
+    | |   |   | +-o AppleBasebandPCIUserClient class: IORegistryEntry:IOService:IOUserClient:AppleBasebandPCIUserClient
+    | |   |   +-o AppleBasebandPCIRTIInterface class: IORegistryEntry:IOService:AppleBasebandPCIInterface:AppleBasebandPCIRTIInterface
+    | |   |   +-o AppleBasebandPCIRTIInterface class: IORegistryEntry:IOService:AppleBasebandPCIInterface:AppleBasebandPCIRTIInterface
+    | |   |   +-o AppleBasebandPCIRTIInterface class: IORegistryEntry:IOService:AppleBasebandPCIInterface:AppleBasebandPCIRTIInterface
+    | |   |   +-o AppleBasebandPCIRTIInterface class: IORegistryEntry:IOService:AppleBasebandPCIInterface:AppleBasebandPCIRTIInterface
+    | |   |   +-o AppleBasebandPCIRTIInterface class: IORegistryEntry:IOService:AppleBasebandPCIInterface:AppleBasebandPCIRTIInterface
+    | |   |   +-o AppleBasebandPCIRTIInterface class: IORegistryEntry:IOService:AppleBasebandPCIInterface:AppleBasebandPCIRTIInterface
+    | |   +-o AppleBasebandPCIICEPDPManager class: IORegistryEntry:IOService:IOSkywalkController:AppleBasebandPCIPDPManagerBase:AppleBasebandPCIICEPDPManager
+    | |   | +-o pdp_ip0 class: IORegistryEntry:IOService:IOSkywalkInterface:IOSkywalkNetworkInterface:AppleBasebandPCISkywalkInterfaceBase:AppleBasebandPCIPDPSkywalkInterface
+    | |   | | +-o IOSkywalkNetworkBSDClient class: IORegistryEntry:IOService:IOSkywalkBSDClient:IOSkywalkNetworkBSDClient
+    | |   | +-o pdp_ip1 class: IORegistryEntry:IOService:IOSkywalkInterface:IOSkywalkNetworkInterface:AppleBasebandPCISkywalkInterfaceBase:AppleBasebandPCIPDPSkywalkInterface
+    | |   | | +-o IOSkywalkNetworkBSDClient class: IORegistryEntry:IOService:IOSkywalkBSDClient:IOSkywalkNetworkBSDClient
+    | |   | +-o pdp_ip2 class: IORegistryEntry:IOService:IOSkywalkInterface:IOSkywalkNetworkInterface:AppleBasebandPCISkywalkInterfaceBase:AppleBasebandPCIPDPSkywalkInterface
+    | |   | | +-o IOSkywalkNetworkBSDClient class: IORegistryEntry:IOService:IOSkywalkBSDClient:IOSkywalkNetworkBSDClient
+    | |   | +-o pdp_ip3 class: IORegistryEntry:IOService:IOSkywalkInterface:IOSkywalkNetworkInterface:AppleBasebandPCISkywalkInterfaceBase:AppleBasebandPCIPDPSkywalkInterface
+    | |   | | +-o IOSkywalkNetworkBSDClient class: IORegistryEntry:IOService:IOSkywalkBSDClient:IOSkywalkNetworkBSDClient
+    | |   | +-o pdp_ip4 class: IORegistryEntry:IOService:IOSkywalkInterface:IOSkywalkNetworkInterface:AppleBasebandPCISkywalkInterfaceBase:AppleBasebandPCIPDPSkywalkInterface
+    | |   |   +-o IOSkywalkNetworkBSDClient class: IORegistryEntry:IOService:IOSkywalkBSDClient:IOSkywalkNetworkBSDClient
+    | |   +-o AppleBasebandUserClient class: IORegistryEntry:IOService:IOUserClient:AppleBasebandUserClient
+    | |   +-o AppleBasebandUserClient class: IORegistryEntry:IOService:IOUserClient:AppleBasebandUserClient
+    | |   +-o AppleBasebandUserClient class: IORegistryEntry:IOService:IOUserClient:AppleBasebandUserClient
+    | |   +-o AppleBasebandUserClient class: IORegistryEntry:IOService:IOUserClient:AppleBasebandUserClient
+    | |   +-o AppleBasebandUserClient class: IORegistryEntry:IOService:IOUserClient:AppleBasebandUserClient
+    | |   +-o AppleBasebandUserClient class: IORegistryEntry:IOService:IOUserClient:AppleBasebandUserClient
+    | +-o sacm class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleARMSlowAdaptiveClockingManager class: IORegistryEntry:IOService:IOSlowAdaptiveClockingManager:AppleARMSlowAdaptiveClockingManager
+    | +-o defaults class: IORegistryEntry:IOService:IOPlatformDevice
+    | | +-o AppleMobileApNonce class: IORegistryEntry:IOService:AppleMobileApNonce
+    | | +-o AppleImage4 class: IORegistryEntry:IOService:AppleImage4
+    | +-o product class: IORegistryEntry:IOService:IOPlatformDevice
+    | +-o filesystems class: IORegistryEntry:IOService:IOPlatformDevice
+    | +-o osenvironments class: IORegistryEntry:IOService:IOPlatformDevice
+    | +-o ApplePCIEMSIController class: IORegistryEntry:IOService:IOInterruptController:IOPCIMessagedInterruptController:ApplePCIEMSIController
+    +-o IOResources class: IORegistryEntry:IOService:IOResources
+    | +-o IOTimeSyncClockManager class: IORegistryEntry:IOService:IOTimeSyncClockManager
+    | | +-o IOTimeSyncClockManagerUserClient class: IORegistryEntry:IOService:IOUserClient:IOTimeSyncClockManagerUserClient
+    | | +-o IOTimeSyncgPTPManager class: IORegistryEntry:IOService:IOTimeSyncgPTPManager
+    | |   +-o IOTimeSyncDomain class: IORegistryEntry:IOService:IOTimeSyncService:IOTimeSyncDomain
+    | |   | +-o IOTimeSyncMachNanoPort class: IORegistryEntry:IOService:IOTimeSyncPort:IOTimeSyncMachNanoPort
+    | |   | +-o IOTimeSyncDomainUserClient class: IORegistryEntry:IOService:IOUserClient:IOTimeSyncUserClient:IOTimeSyncDomainUserClient
+    | |   | +-o IOTimeSyncDomainUserClient class: IORegistryEntry:IOService:IOUserClient:IOTimeSyncUserClient:IOTimeSyncDomainUserClient
+    | |   | +-o IOTimeSyncDomainUserClient class: IORegistryEntry:IOService:IOUserClient:IOTimeSyncUserClient:IOTimeSyncDomainUserClient
+    | |   +-o IOTimeSyncgPTPManagerUserClient class: IORegistryEntry:IOService:IOUserClient:IOTimeSyncgPTPManagerUserClient
+    | +-o IOReportHub class: IORegistryEntry:IOService:IOReportHub
+    | | +-o IOReportUserClient class: IORegistryEntry:IOService:IOUserClient:IOReportUserClient
+    | | +-o IOReportUserClient class: IORegistryEntry:IOService:IOUserClient:IOReportUserClient
+    | | +-o IOReportUserClient class: IORegistryEntry:IOService:IOUserClient:IOReportUserClient
+    | | +-o IOReportUserClient class: IORegistryEntry:IOService:IOUserClient:IOReportUserClient
+    | | +-o IOReportUserClient class: IORegistryEntry:IOService:IOUserClient:IOReportUserClient
+    | | +-o IOReportUserClient class: IORegistryEntry:IOService:IOUserClient:IOReportUserClient
+    | | +-o IOReportUserClient class: IORegistryEntry:IOService:IOUserClient:IOReportUserClient
+    | +-o AUC class: IORegistryEntry:IOService:AUC
+    | +-o AppleIPAppender class: IORegistryEntry:IOService:AppleIPAppender
+    | | +-o AppleIPAppenderUserClient class: IORegistryEntry:IOService:IOUserClient:AppleIPAppenderUserClient
+    | +-o ProvInfoIOKit class: IORegistryEntry:IOService:ProvInfoIOKit
+    | +-o AppleUSBHostResources class: IORegistryEntry:IOService:AppleUSBHostResources
+    | | +-o AppleUSBHostResourcesClient class: IORegistryEntry:IOService:AppleUSBHostResourcesClient
+    | | +-o AppleUSBHostPacketFilter class: IORegistryEntry:IOService:AppleUSBHostPacketFilter
+    | +-o IOHDIXController class: IORegistryEntry:IOService:IOHDIXController
+    | | +-o KDIURL@0 class: IORegistryEntry:IOService:KDIURL
+    | | | +-o KDIRAMBackingStore class: IORegistryEntry:IOService:KDIObject:KDIBackingStore:KDIRAMBackingStore
+    | | |   +-o KDIReadWriteDiskImage class: IORegistryEntry:IOService:KDIObject:KDIDiskImage:KDIReadWriteDiskImage
+    | | |     +-o KDIDiskImageNub class: IORegistryEntry:IOService:KDIDiskImageNub
+    | | |       +-o IOHDIXHDDriveInKernel class: IORegistryEntry:IOService:IOHDIXHDDrive:IOHDIXHDDriveInKernel
+    | | |         +-o IODiskImageBlockStorageDeviceInKernel class: IORegistryEntry:IOService:IOBlockStorageDevice:IOHDIXHDDriveNub:IODiskImageBlockStorageDeviceInKernel
+    | | |           +-o IOBlockStorageDriver class: IORegistryEntry:IOService:IOStorage:IOBlockStorageDriver
+    | | |             +-o Apple disk image Media class: IORegistryEntry:IOService:IOStorage:IOMedia
+    | | |               +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | | +-o KDIURL@1 class: IORegistryEntry:IOService:KDIURL
+    | | | +-o KDIFileBackingStore class: IORegistryEntry:IOService:KDIObject:KDIBackingStore:KDIFileBackingStore
+    | | |   +-o KDIUDIFEncoding class: IORegistryEntry:IOService:KDIObject:KDIBackingStore:KDIEncoding:KDISecondaryEncoding:KDIUDIFEncoding
+    | | |     +-o KDIUDIFDiskImage class: IORegistryEntry:IOService:KDIObject:KDIDiskImage:KDIUDIFDiskImage
+    | | |       +-o KDIDiskImageNub class: IORegistryEntry:IOService:KDIDiskImageNub
+    | | |         +-o IOHDIXHDDriveInKernel class: IORegistryEntry:IOService:IOHDIXHDDrive:IOHDIXHDDriveInKernel
+    | | |           +-o IODiskImageBlockStorageDeviceInKernel class: IORegistryEntry:IOService:IOBlockStorageDevice:IOHDIXHDDriveNub:IODiskImageBlockStorageDeviceInKernel
+    | | |             +-o IOBlockStorageDriver class: IORegistryEntry:IOService:IOStorage:IOBlockStorageDriver
+    | | |               +-o Apple disk image Media class: IORegistryEntry:IOService:IOStorage:IOMedia
+    | | |                 +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | | +-o KDIURL@2 class: IORegistryEntry:IOService:KDIURL
+    | |   +-o KDIFileBackingStore class: IORegistryEntry:IOService:KDIObject:KDIBackingStore:KDIFileBackingStore
+    | |     +-o KDIUDIFEncoding class: IORegistryEntry:IOService:KDIObject:KDIBackingStore:KDIEncoding:KDISecondaryEncoding:KDIUDIFEncoding
+    | |       +-o KDIUDIFDiskImage class: IORegistryEntry:IOService:KDIObject:KDIDiskImage:KDIUDIFDiskImage
+    | |         +-o KDIDiskImageNub class: IORegistryEntry:IOService:KDIDiskImageNub
+    | |           +-o IOHDIXHDDriveInKernel class: IORegistryEntry:IOService:IOHDIXHDDrive:IOHDIXHDDriveInKernel
+    | |             +-o IODiskImageBlockStorageDeviceInKernel class: IORegistryEntry:IOService:IOBlockStorageDevice:IOHDIXHDDriveNub:IODiskImageBlockStorageDeviceInKernel
+    | |               +-o IOBlockStorageDriver class: IORegistryEntry:IOService:IOStorage:IOBlockStorageDriver
+    | |                 +-o Apple disk image Media class: IORegistryEntry:IOService:IOStorage:IOMedia
+    | |                   +-o IOMediaBSDClient class: IORegistryEntry:IOService:IOMediaBSDClient
+    | +-o CoreAnalyticsHub class: IORegistryEntry:IOService:CoreAnalyticsHub
+    | | +-o CoreAnalyticsUserClient class: IORegistryEntry:IOService:IOUserClient:CoreAnalyticsUserClient
+    | +-o com_apple_driver_FairPlayIOKit class: IORegistryEntry:IOService:com_apple_driver_FairPlayIOKit
+    | | +-o com_apple_driver_FairPlayIOKitUserClient class: IORegistryEntry:IOService:IOUserClient:com_apple_driver_FairPlayIOKitUserClient
+    | | +-o com_apple_driver_FairPlayIOKitUserClient class: IORegistryEntry:IOService:IOUserClient:com_apple_driver_FairPlayIOKitUserClient
+    | +-o com_apple_driver_KeyDeliveryIOKit class: IORegistryEntry:IOService:com_apple_driver_KeyDeliveryIOKit
+    | +-o com_apple_driver_KeyDeliveryIOKitMSE class: IORegistryEntry:IOService:com_apple_driver_KeyDeliveryIOKitMSE
+    | +-o AppleSSE class: IORegistryEntry:IOService:AppleSSEInterface:AppleSSE
+    | +-o com_apple_driver_ASIOKit class: IORegistryEntry:IOService:com_apple_driver_ASIOKit
+    | +-o IOUserEthernetResource class: IORegistryEntry:IOService:IOUserEthernetResource
+    | +-o IOUSBMassStorageResource class: IORegistryEntry:IOService:IOUSBMassStorageResource
+    | +-o AppleKeyStore class: IORegistryEntry:IOService:AppleKeyStore
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | | +-o AppleKeyStoreUserClient class: IORegistryEntry:IOService:IOUserClient:AppleKeyStoreUserClient
+    | +-o AppleCredentialManager class: IORegistryEntry:IOService:AppleCredentialManager
+    | | +-o AppleCredentialManagerUserClient class: IORegistryEntry:IOService:IOUserClient:AppleCredentialManagerUserClient
+    | | +-o AppleCredentialManagerUserClient class: IORegistryEntry:IOService:IOUserClient:AppleCredentialManagerUserClient
+    | | +-o AppleCredentialManagerUserClient class: IORegistryEntry:IOService:IOUserClient:AppleCredentialManagerUserClient
+    | | +-o AppleCredentialManagerUserClient class: IORegistryEntry:IOService:IOUserClient:AppleCredentialManagerUserClient
+    | | +-o AppleCredentialManagerUserClient class: IORegistryEntry:IOService:IOUserClient:AppleCredentialManagerUserClient
+    | +-o AppleTemperatureStatistics class: IORegistryEntry:IOService:AppleTemperatureStatistics
+    | +-o IOAudioCodecs class: IORegistryEntry:IOService:IOAudioCodecs
+    | +-o IONetworkStack class: IORegistryEntry:IOService:IONetworkStack
+    | | +-o IONetworkStackUserClient class: IORegistryEntry:IOService:IOUserClient:IONetworkStackUserClient
+    | +-o AppleMobileFileIntegrity class: IORegistryEntry:IOService:AppleMobileFileIntegrity
+    | +-o IOCoreSurfaceRoot class: IORegistryEntry:IOService:IOSurfaceRoot
+    | | +-o IOSurfaceRootUserClient class: IORegistryEntry:IOService:IOUserClient:IOSurfaceRootUserClient
+    | | +-o IOSurfaceRootUserClient class: IORegistryEntry:IOService:IOUserClient:IOSurfaceRootUserClient
+    | | +-o IOSurfaceRootUserClient class: IORegistryEntry:IOService:IOUserClient:IOSurfaceRootUserClient
+    | | +-o IOSurfaceRootUserClient class: IORegistryEntry:IOService:IOUserClient:IOSurfaceRootUserClient
+    | | +-o IOSurfaceRootUserClient class: IORegistryEntry:IOService:IOUserClient:IOSurfaceRootUserClient
+    | | +-o IOSurfaceRootUserClient class: IORegistryEntry:IOService:IOUserClient:IOSurfaceRootUserClient
+    | +-o IOHIDResource class: IORegistryEntry:IOService:IOHIDResource
+    | +-o AppleFairplayTextCrypter class: IORegistryEntry:IOService:IOTextCrypter:AppleFairplayTextCrypter
+    | +-o AppleNullTextCrypter class: IORegistryEntry:IOService:IOTextCrypter:AppleNullTextCrypter
+    | +-o com_apple_filesystems_apfs class: IORegistryEntry:IOService:com_apple_filesystems_apfs
+    | +-o com_apple_AppleFSCompression_AppleFSCompressionTypeZlib class: IORegistryEntry:IOService:com_apple_AppleFSCompression_AppleFSCompressionTypeZlib
+    | +-o AppleBSDKextStarterVPN class: IORegistryEntry:IOService:AppleBSDKextStarter
+    | +-o com_apple_filesystems_hfs class: IORegistryEntry:IOService:com_apple_filesystems_hfs
+    +-o IOUserResources class: IORegistryEntry:IOService:IOUserResources
